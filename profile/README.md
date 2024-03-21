@@ -23,7 +23,7 @@
 
 If you have any questions, suggestions, or just want to say hello, you can reach me at:
 
- Email: [your.email@example.com](mailto:Nishitbaria@gmail.com)
+ Email: [Nishitbaria@gmail.com](mailto:Nishitbaria@gmail.com)
 
 
 Let's keep learning and building together!
